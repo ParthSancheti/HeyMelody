@@ -76,45 +76,6 @@ Below is the enhanced GitHub README file with additional feature highlights, abu
 
 ---
 
-# HeyMelody 🎶✨
-
-Welcome to **HeyMelody** – the ultimate Material 3 YouTube Music client for Android! This open-source music player is built for true music enthusiasts who crave a modern, sleek, and feature-rich experience. Get ready to jam out with your favorite tunes from YouTube Music — completely ad-free and optimized to keep your groove going anytime, anywhere! 🎧🔥
-
----
-
-## Overview 🚀
-
-**HeyMelody** is revolutionizing music streaming on Android with its minimalistic design, enhanced performance, and cutting-edge features. Its open-source nature means that it's driven by community passion and continuous innovation.
-
-- **Open-Source & Community Focused** 🤝: Freely available on GitHub for anyone to contribute, improve, and share.
-- **Elegant Material 3 Design** 🎨: Enjoy a modern user interface that’s both functional and visually stunning.
-- **High Performance** ⚡: Experience robust background playback, advanced audio controls, and flawless integration with your favorite music services.
-
----
-
-## Key Features 🌟
-
-### Music Playback & Exploration
-- **Ad-Free Streaming** 🚫🅰️: Play songs and videos directly from YouTube Music without interruptions.  
-- **Seamless Background Playback** ⏯️: Keep the music playing even when you switch apps or turn off your screen.
-- **Lightning-Fast Search** 🔍⚡: Quickly find songs, videos, albums, and playlists with an intuitive search engine.
-- **Local & Online Integration** 🎵📡: Mix and match local audio files with online content for the ultimate listening session.
-
-### Advanced Audio & Visual Features
-- **Synchronized Lyrics** 📝🎤: Experience perfectly synced lyrics (supports LRC files with multi-line display) that let you sing along effortlessly.
-- **Lyrics Translator** 🌐🔤: Break down language barriers by instantly translating your favorite lyrics.
-- **Audio Normalization** 🔊📈: Maintain consistent volume levels across all tracks for a smoother listening experience.
-- **Tempo & Pitch Control** ⏩🎶: Adjust the playback speed and pitch to match your mood and preference.
-- **Skip Silence** 🚫🤫: Automatically jump over silent segments to keep the vibe going.
-- **Dynamic Theme** 🖌️🌈: Enjoy a vibrant, auto-adapting theme that complements your environment.
-
-### Connectivity, Sync, and Account Integration
-- **YouTube Music Account Integration** 📱🔗: Fully sync songs, subscriptions, playlists, and albums between your device and the cloud.
-- **Advanced Account Synchronization (OuterTune Mode)** 🌟🔄: Experience seamless synchronization with multiple queues and an upgraded UI—the supercharged fork of InnerTune.
-- **Cache & Offline Playback** 📥🎼: Download your favorite tracks and playlists for listening on the go—even without an internet connection.
-- **Personalized Quick Picks** 🎯❤️: Get tailored song music lovers and developers on our Discord and GitHub.
----
-
 ## Download Now 🚀
 
 ### ✨ Get HeyMelody Now! ✨
