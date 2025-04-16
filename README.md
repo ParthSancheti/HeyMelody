@@ -1,201 +1,181 @@
-# HeyMelody 🎶✨
+HeyMelody 🎶✨
 
-Welcome to **HeyMelody** – the ultimate Material 3 YouTube Music client for Android!
+Welcome to HeyMelody – the ultimate Material 3 YouTube Music client for Android!
 
-![Banner](https://github.com/user-attachments/assets/6ffd58e6-4051-473a-b7e0-4bf4e8765231)
-
----
-
-## Overview 🚀
-
-**HeyMelody** is revolutionizing music streaming on Android with its minimalistic design, enhanced performance, and cutting-edge features. Its open-source nature means that it's driven by community passion and continuous innovation.
-
-- **Open-Source & Community Focused** 🤝: Freely available on GitHub for anyone to contribute, improve, and share.
-- **Elegant Material 3 Design** 🎨: Enjoy a modern user interface that’s both functional and visually stunning.
-- **High Performance** ⚡: Experience robust background playback, advanced audio controls, and flawless integration with your favorite music services.
-
----
-
-## Key Features 🌟
-
-### Music Playback & Exploration
-- **Ad-Free Streaming** 🚫🅰️: Play songs and videos directly from YouTube Music without interruptions.  
-- **Seamless Background Playback** ⏯️: Keep the music playing even when you switch apps or turn off your screen.
-- **Lightning-Fast Search** 🔍⚡: Quickly find songs, videos, albums, and playlists with an intuitive search engine.
-- **Local & Online Integration** 🎵📡: Mix and match local audio files with online content for the ultimate listening session.
-
-## Screenshot Preview 📸
-
-To get a glimpse of HeyMelody's sleek interface, check out the screenshot below:
-
-<img src="https://github.com/user-attachments/assets/41531207-6f8c-4ba0-9008-cd623e01ebc6" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;"><img src="https://github.com/user-attachments/assets/e069a90d-5bb6-4f8c-8b20-65e0e64da415" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">
-
-<img src="https://github.com/user-attachments/assets/b23ea724-bed2-476e-9777-761c95700025" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;"><img src="https://github.com/user-attachments/assets/b5549618-0e4e-4b3b-a617-5893f3bfcb09" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">
-
-<img src="https://github.com/user-attachments/assets/a545ee19-bd81-4049-ab7d-09642dbeefc0" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;"><img src="https://github.com/user-attachments/assets/cc7d96b4-ffcc-41bb-964c-f7c71501a8eb" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">
-
-### Advanced Audio & Visual Features
-- **Synchronized Lyrics** 📝🎤: Experience perfectly synced lyrics (supports LRC files with multi-line display) that let you sing along effortlessly.
-- **Lyrics Translator** 🌐🔤: Break down language barriers by instantly translating your favorite lyrics.
-- **Audio Normalization** 🔊📈: Maintain consistent volume levels across all tracks for a smoother listening experience.
-- **Tempo & Pitch Control** ⏩🎶: Adjust the playback speed and pitch to match your mood and preference.
-- **Skip Silence** 🚫🤫: Automatically jump over silent segments to keep the vibe going.
-- **Dynamic Theme** 🖌️🌈: Enjoy a vibrant, auto-adapting theme that complements your environment.
-**Live Alerts** 🔔🚀: Stay up-to-date with real-time notifications on OnePlus, Realme, Oppo, and more – never miss a beat with instant updates tailored just for you!
-
-
-### Connectivity, Sync, and Account Integration
-- **YouTube Music Account Integration** 📱🔗: Fully sync songs, subscriptions, playlists, and albums between your device and the cloud.
-- **Advanced Account Synchronization (OuterTune Mode)** 🌟🔄: Experience seamless synchronization with multiple queues and an upgraded UI—the supercharged fork of InnerTune.
-- **Cache & Offline Playback** 📥🎼: Download your favorite tracks and playlists for listening on the go—even without an internet connection.
-- **Personalized Quick Picks** 🎯❤️: Get tailored song recommendations that match your unique taste.
-- **Local Media Playback** 🎧💽: Combine local tracks with YouTube Music content for a blended media library experience.
-- **Efficient Metadata Handling** 🏷️✅: Enjoy accurate tag extraction without the pitfalls of broken metadata extractors.
-- 
-
-### Extra Connectivity & Customizations
-- **Android Auto Support** 🚗🎙️: Bring HeyMelody into your car! If it's not showing, simply enable developer settings via Android Auto's menu (tap the version number repeatedly, then activate "Unknown sources" from Developer Settings).
-- **Discord Rich Presence** 💬🎮: Show your friends what you're listening to on Discord with dynamic updates.
-- **OnePlus/Realme/Oppo Live Alerts** 📲⚡: Stay up-to-date with live alerts tailored for select devices.
-- **In-App Local & Remote Playlist Sync** 🔄🎼: Synchronize your playlists across devices with ease.
-- **Multiple Queues & Seamless Switching** 🔀🕹️: Enjoy the freedom to manage multiple music queues effortlessly.
-- **Optimized for Fast Loading** 🚀💨: Our app is designed to load and navigate swiftly, providing a smooth user experience.
-
-### Bonus Features 🌠
-- **Customizable Audio Effects** 🎚️🎛️: Experiment with various audio filters and effects to fine-tune your sound.
-- **Developer-Friendly** 👨‍💻🔧: Contribute to our codebase, with a clean architecture and well-documented modules.
-- **User-Centric Notifications & Alerts** 🔔💡: Get timely updates and alerts designed to enhance your listening experience.
-- **Live Community Engagement** 🌐🤩: Connect with fellow music lovers and developers on our Discord and GitHub.
-
----
-
-
-Below is the enhanced GitHub README file with additional feature highlights, abundant emojis, and an embedded HTML snippet for displaying a screenshot.
+![Blue Illustrative Science Fair Banner (410 x 280 mm)_20250416_192353_0000](https://github.com/user-attachments/assets/70a442d1-8c2c-491e-bf6d-216efac8bcea)
 
 
 ---
 
-# HeyMelody 🎶✨
+Overview 🚀
 
-Welcome to **HeyMelody** – the ultimate Material 3 YouTube Music client for Android! This open-source music player is built for true music enthusiasts who crave a modern, sleek, and feature-rich experience. Get ready to jam out with your favorite tunes from YouTube Music — completely ad-free and optimized to keep your groove going anytime, anywhere! 🎧🔥
+HeyMelody redefines music streaming on Android with its sleek design, high performance, and innovative features. As an open-source project, it’s powered by a vibrant community continuously elevating the experience.
 
----
+Open-Source & Community Focused 🤝: Contribute, improve, and share the passion on GitHub.
 
-## Overview 🚀
+Elegant Material 3 Design 🎨: Modern, intuitive, and visually captivating.
 
-**HeyMelody** is revolutionizing music streaming on Android with its minimalistic design, enhanced performance, and cutting-edge features. Its open-source nature means that it's driven by community passion and continuous innovation.
+High Performance ⚡: Smooth background playback, fast controls, and seamless service integration.
 
-- **Open-Source & Community Focused** 🤝: Freely available on GitHub for anyone to contribute, improve, and share.
-- **Elegant Material 3 Design** 🎨: Enjoy a modern user interface that’s both functional and visually stunning.
-- **High Performance** ⚡: Experience robust background playback, advanced audio controls, and flawless integration with your favorite music services.
+
 
 ---
 
-## Key Features 🌟
+Key Features 🌟
 
-### Music Playback & Exploration
-- **Ad-Free Streaming** 🚫🅰️: Play songs and videos directly from YouTube Music without interruptions.  
-- **Seamless Background Playback** ⏯️: Keep the music playing even when you switch apps or turn off your screen.
-- **Lightning-Fast Search** 🔍⚡: Quickly find songs, videos, albums, and playlists with an intuitive search engine.
-- **Local & Online Integration** 🎵📡: Mix and match local audio files with online content for the ultimate listening session.
+Music Playback & Exploration
 
-### Advanced Audio & Visual Features
-- **Synchronized Lyrics** 📝🎤: Experience perfectly synced lyrics (supports LRC files with multi-line display) that let you sing along effortlessly.
-- **Lyrics Translator** 🌐🔤: Break down language barriers by instantly translating your favorite lyrics.
-- **Audio Normalization** 🔊📈: Maintain consistent volume levels across all tracks for a smoother listening experience.
-- **Tempo & Pitch Control** ⏩🎶: Adjust the playback speed and pitch to match your mood and preference.
-- **Skip Silence** 🚫🤫: Automatically jump over silent segments to keep the vibe going.
-- **Dynamic Theme** 🖌️🌈: Enjoy a vibrant, auto-adapting theme that complements your environment.
+Ad-Free Streaming 🚫🅰️: Enjoy uninterrupted playback directly from YouTube Music.
 
-### Connectivity, Sync, and Account Integration
-- **YouTube Music Account Integration** 📱🔗: Fully sync songs, subscriptions, playlists, and albums between your device and the cloud.
-- **Advanced Account Synchronization (OuterTune Mode)** 🌟🔄: Experience seamless synchronization with multiple queues and an upgraded UI—the supercharged fork of InnerTune.
-- **Cache & Offline Playback** 📥🎼: Download your favorite tracks and playlists for listening on the go—even without an internet connection.
-- **Personalized Quick Picks** 🎯❤️: Get tailored song recommendations that match your unique taste.
-- **Local Media Playback** 🎧💽: Combine local tracks with YouTube Music content for a blended media library experience.
-- **Efficient Metadata Handling** 🏷️✅: Enjoy accurate tag extraction without the pitfalls of broken metadata extractors.
+Seamless Background Playback ⏯️: Music keeps playing regardless of app changes.
 
-### Extra Connectivity & Customizations
-- **Android Auto Support** 🚗🎙️: Bring HeyMelody into your car! If it's not showing, simply enable developer settings via Android Auto's menu (tap the version number repeatedly, then activate "Unknown sources" from Developer Settings).
-- **Discord Rich Presence** 💬🎮: Show your friends what you're listening to on Discord with dynamic updates.
-- **OnePlus/Realme/Oppo Live Alerts** 📲⚡: Stay up-to-date with live alerts tailored for select devices.
-- **In-App Local & Remote Playlist Sync** 🔄🎼: Synchronize your playlists across devices with ease.
-- **Multiple Queues & Seamless Switching** 🔀🕹️: Enjoy the freedom to manage multiple music queues effortlessly.
-- **Optimized for Fast Loading** 🚀💨: Our app is designed to load and navigate swiftly, providing a smooth user experience.
+Lightning-Fast Search 🔍⚡: Locate songs, albums, and playlists instantly.
 
-### Bonus Features 🌠
-- **Customizable Audio Effects** 🎚️🎛️: Experiment with various audio filters and effects to fine-tune your sound.
-- **Developer-Friendly** 👨‍💻🔧: Contribute to our codebase, with a clean architecture and well-documented modules.
-- **User-Centric Notifications & Alerts** 🔔💡: Get timely updates and alerts designed to enhance your listening experience.
-- **Live Community Engagement** 🌐🤩: Connect with fellow music lovers and developers on our Discord and GitHub.
+Local & Online Integration 🎵📡: Combine local audio files with streaming content.
+
+
+Screenshot Preview 📸
+
+Get a glimpse of HeyMelody’s interface:
+
+<img src="https://github.com/user-attachments/assets/41531207-6f8c-4ba0-9008-cd623e01ebc6" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">
+<img src="https://github.com/user-attachments/assets/e069a90d-5bb6-4f8c-8b20-65e0e64da415" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;"><img src="https://github.com/user-attachments/assets/b23ea724-bed2-476e-9777-761c95700025" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">
+<img src="https://github.com/user-attachments/assets/b5549618-0e4e-4b3b-a617-5893f3bfcb09" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;"><img src="https://github.com/user-attachments/assets/a545ee19-bd81-4049-ab7d-09642dbeefc0" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">
+<img src="https://github.com/user-attachments/assets/cc7d96b4-ffcc-41bb-964c-f7c71501a8eb" alt="HeyMelody App Screenshot" width="300" style="border: 2px solid #ccc; border-radius: 8px;">Advanced Audio & Visual Features
+
+Synchronized Lyrics 📝🎤: Sing along effortlessly with perfectly timed lyrics (supports multi-line LRC files).
+
+Lyrics Translator 🌐🔤: Instantly break language barriers with on-the-fly translations.
+
+Audio Normalization 🔊📈: Enjoy a consistent volume across all tracks.
+
+Tempo & Pitch Control ⏩🎶: Customize playback speed and pitch for your perfect vibe.
+
+Skip Silence 🚫🤫: Automatically bypass silent segments.
+
+Dynamic Theme 🖌️🌈: An auto-adapting theme that stays in tune with your style.
+
+Live Alerts 🔔🚀: Receive real-time notifications on supported devices.
+
+
+Connectivity, Sync & Integration
+
+YouTube Music Integration 📱🔗: Seamlessly sync your songs, playlists, and subscriptions.
+
+OuterTune Mode 🌟🔄: Enjoy upgraded synchronization with multiple queues and an enhanced UI.
+
+Cache & Offline Playback 📥🎼: Download favorites for offline listening.
+
+Personalized Quick Picks 🎯❤️: Discover tailor-made recommendations.
+
+Local Media Playback 🎧💽: Merge local files with streaming content.
+
+Efficient Metadata Handling 🏷️✅: Accurate tags without glitches.
+
+
+Extra Connectivity & Customizations
+
+Android Auto Support 🚗🎙️: Enable through Developer Settings (tap version repeatedly and activate “Unknown sources”).
+
+Discord Rich Presence 💬🎮: Share your tunes live on Discord.
+
+Live Device Alerts 📲⚡: Stay updated with tailored notifications for select devices.
+
+Playlist Sync 🔄🎼: Effortlessly synchronize playlists across devices.
+
+Multiple Queues 🔀🕹️: Manage several queues seamlessly.
+
+Optimized Loading 🚀💨: Experience rapid navigation and responsiveness.
+
+
+Bonus Features 🌠
+
+Custom Audio Effects 🎚️🎛️: Experiment with audio filters and effects.
+
+Developer-Friendly 👨‍💻🔧: A clean, modular codebase documented for community contributions.
+
+User-Centric Alerts 🔔💡: Timely notifications designed to enhance your experience.
+
+Community Engagement 🌐🤩: Connect with fellow music lovers on Discord and GitHub.
+
+
+
 ---
 
-## Download Now 🚀
+Download Now 🚀
 
-### ✨ Get HeyMelody Now! ✨
+✨ Get HeyMelody Now! ✨
 
 <a href="https://github.com/Parth-Sancheti-5/HeyMelody/releases/tag/v2.7"><image src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" height="100" width="250" ></a>
 
+Additional Setup
 
-## Additional Setup
+Android Auto Users: If HeyMelody isn’t visible, enable Developer Settings in Android Auto.
 
-Android Auto Users: Follow the guidelines above to enable developer settings if HeyMelody isn’t visible.
+Offline Playback: Cache your tracks and playlists for listening on the go.
 
-Offline Playback: Simply cache your favorite tracks and playlists to listen anywhere, anytime.
+
 
 ---
 
-## FAQs ❓
+FAQs ❓
 
-> Q: How do I scrobble music to LastFM, LibreFM, ListenBrainz, or GNU FM?
-A: HeyMelody doesn’t support built-in scrobbling yet. Try dedicated scrobbler apps like Pano Scrobbler for tracking your plays.
-
-
-
-> Q: Why isn’t HeyMelody appearing in Android Auto?
-A: If HeyMelody isn’t showing up, navigate to Android Auto’s settings, tap on the version repeatedly to open Developer Settings, then enable Unknown sources from the menu.
+> Q: How do I scrobble my music to LastFM, LibreFM, ListenBrainz, or GNU FM?
+A: HeyMelody currently lacks built-in scrobbling. Use dedicated apps like Pano Scrobbler.
 
 
 
-> Q: What should I do if I encounter installation issues?
-A: Uninstall any conflicting apps like Spotify and then reinstall HeyMelody to resolve the issue.
+> Q: Why isn’t HeyMelody showing in Android Auto?
+A: Open Android Auto settings, tap the version repeatedly to access Developer Settings, and enable "Unknown sources."
+
+
+
+> Q: What if I face installation issues?
+A: Uninstall conflicting apps (e.g., Spotify), then reinstall HeyMelody.
+
+
+
 
 ---
 
-## Why HeyMelody? 🌈✨
+Why HeyMelody? 🌈✨
 
-HeyMelody is designed for music enthusiasts who value clean design, powerful features, and flexibility. Here's why you should choose HeyMelody:
+Designed for true music lovers, HeyMelody offers:
 
-Simplicity & Elegance: A streamlined experience that prioritizes both form and function.
+Simplicity & Elegance: A streamlined, user-first design.
 
-Cutting-Edge Features: From synchronized lyrics to dynamic themes, every detail is crafted with passion.
+Cutting-Edge Features: From synced lyrics to dynamic themes.
 
-Community & Collaboration: Join a vibrant community of developers and music fans continuously improving the app.
+Community & Collaboration: A thriving community continually enhancing the experience.
 
 
-Let HeyMelody redefine your music experience with every beat and note! 🎧🎵💖
+Let HeyMelody transform your music journey with every beat and lyric!
 
----
-
-## Contributing & Community 🤝
-
-We love contributions from the community! Here’s how you can help:
-
-Fork & Submit Pull Requests: Check out our GitHub repository, fork the project, and submit your enhancements.
-
-Report Issues & Request Features: Use GitHub Issues to share your feedback, report bugs, or request new features.
-
-Spread the Word: Share HeyMelody on social media and with your friends — every bit helps!
 
 ---
 
-## License 📄
+Contributing & Community 🤝
 
-This project is released under the MIT License. Feel free to use, modify, and distribute HeyMelody as you see fit.
+Join our growing community:
+
+Fork & Contribute: Enhance and expand the codebase on GitHub.
+
+Report & Request: Share your ideas or bugs via GitHub Issues.
+
+Spread the Word: Share HeyMelody on social media to help us grow.
+
+
 
 ---
 
-## Connect With Us 🌐💬
+License 📄
+
+This project is under the MIT License. Feel free to use, modify, and distribute HeyMelody as you wish.
+
+
+---
+
+Connect With Us 🌐💬
 
 <p align="center">
   <a href="https://instagram.com/parth_sancheti" target="_blank">
@@ -208,16 +188,11 @@ This project is released under the MIT License. Feel free to use, modify, and di
     <img src="https://github.com/user-attachments/assets/0e431c33-dfa6-463a-8b52-7e729de03b12" alt="Telegram" height="50" width="50" />
   </a>
 </p>
-
-
 ---
 
-Embrace the future of music streaming with HeyMelody — where every note, beat, and lyric inspires a moment of joy! 🎶💥🎉
-
+Embrace the future of music streaming with HeyMelody — where each note, beat, and lyric sparks joy! 🎶💥🎉
 
 <p align="center">
-  Made with ❤️, ☕, and a lot of late-night jamming by <b>Open Source Music Lovers</b>.
+  Made with ❤️, ☕, and countless late-night jams by <b>Open Source Music Lovers</b>.
 </p>
-```
-
 ---
