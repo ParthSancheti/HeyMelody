@@ -112,23 +112,7 @@ Welcome to **HeyMelody** – the ultimate Material 3 YouTube Music client for An
 - **YouTube Music Account Integration** 📱🔗: Fully sync songs, subscriptions, playlists, and albums between your device and the cloud.
 - **Advanced Account Synchronization (OuterTune Mode)** 🌟🔄: Experience seamless synchronization with multiple queues and an upgraded UI—the supercharged fork of InnerTune.
 - **Cache & Offline Playback** 📥🎼: Download your favorite tracks and playlists for listening on the go—even without an internet connection.
-- **Personalized Quick Picks** 🎯❤️: Get tailored song recommendations that match your unique taste.
-- **Local Media Playback** 🎧💽: Combine local tracks with YouTube Music content for a blended media library experience.
-- **Efficient Metadata Handling** 🏷️✅: Enjoy accurate tag extraction without the pitfalls of broken metadata extractors.
-
-### Extra Connectivity & Customizations
-- **Android Auto Support** 🚗🎙️: Bring HeyMelody into your car! If it's not showing, simply enable developer settings via Android Auto's menu (tap the version number repeatedly, then activate "Unknown sources" from Developer Settings).
-- **Discord Rich Presence** 💬🎮: Show your friends what you're listening to on Discord with dynamic updates.
-- **OnePlus/Realme/Oppo Live Alerts** 📲⚡: Stay up-to-date with live alerts tailored for select devices.
-- **In-App Local & Remote Playlist Sync** 🔄🎼: Synchronize your playlists across devices with ease.
-- **Multiple Queues & Seamless Switching** 🔀🕹️: Enjoy the freedom to manage multiple music queues effortlessly.
-- **Optimized for Fast Loading** 🚀💨: Our app is designed to load and navigate swiftly, providing a smooth user experience.
-
-### Bonus Features 🌠
-- **Customizable Audio Effects** 🎚️🎛️: Experiment with various audio filters and effects to fine-tune your sound.
-- **Developer-Friendly** 👨‍💻🔧: Contribute to our codebase, with a clean architecture and well-documented modules.
-- **User-Centric Notifications & Alerts** 🔔💡: Get timely updates and alerts designed to enhance your listening experience.
-- **Live Community Engagement** 🌐🤩: Connect with fellow music lovers and developers on our Discord and GitHub.
+- **Personalized Quick Picks** 🎯❤️: Get tailored song music lovers and developers on our Discord and GitHub.
 ---
 
 ## Download Now 🚀
