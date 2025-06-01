@@ -10,15 +10,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3cc7eab4-d7ab-42f0-9cf5-be0645b41832" width="80%" alt="HeyMelody Logo" />
+  <img src="https://github.com/user-attachments/assets/d19110b8-fe0b-4425-8f7b-cd8a1ef07ea4" width="80%" alt="HeyMelody Logo" />
 </p>
-
----
 
 ## 🎬 Preview
 
 <p align="center">
-  <img src="https://your-domain.com/demo-animation.gif" width="300" alt="HeyMelody UI Demo" />
+  <img src="https://github.com/user-attachments/assets/66b556c4-0d95-4d0d-a0dd-81c3197ee8a1" width="80%" alt="HeyMelody UI Demo" />
+  <br />
+    <img src="https://github.com/user-attachments/assets/432a51f7-b2df-496f-9389-1dfb6dc6aa44" width="80%" alt="HeyMelody UI Demo" />
+  <br />
+      <img src="https://github.com/user-attachments/assets/fd768c70-d367-4e03-b9d8-11748c7d46a1" width="80%" alt="HeyMelody UI Demo" />
   <br />
   <em>Smooth transitions. Material You. Lightning fast.</em>
 </p>
@@ -68,9 +70,10 @@
 
 <table>
   <tr>
-    <td><img src="https://your-domain.com/screen1.png" width="200"/></td>
-    <td><img src="https://your-domain.com/screen2.png" width="200"/></td>
-    <td><img src="https://your-domain.com/screen3.png" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0a88c7b3-8977-43cb-b3f4-d0c1ebd1843b" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3e1874cb-0106-44ba-b32a-89e5877fb649" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9b6d792c-7caf-4f75-ac39-99ed18fac7ba" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4dec1074-b474-49c7-9536-b76740a24984" width="200"/></td>
   </tr>
 </table>
 
